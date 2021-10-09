@@ -1,8 +1,8 @@
 <div class="container is-widescreen">
-	<h1 class="title">Hello World!</h1>
+  <div class="box">
+    <h1 class="title">Hello World!</h1>
+  </div>
 </div>
 
-
-<style  src="./scss/main.scss" lang="scss" global>
+<style src="./scss/main.scss" lang="scss" global>
 </style>
-
