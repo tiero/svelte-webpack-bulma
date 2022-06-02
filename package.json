@@ -40,7 +40,8 @@
     "format": "npx prettier --write src/**/*.svelte"
   },
   "dependencies": {
-    "bulma": "^0.9.3"
+    "bulma": "^0.9.3",
+    "svelte-marina-button": "^0.1.3"
   },
   "prettier": {
     "tabWidth": 2,
