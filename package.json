@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.3",
-    "svelte-marina-button": "^0.1.3"
+    "svelte-marina-button": "^0.1.4"
   },
   "prettier": {
     "tabWidth": 2,
